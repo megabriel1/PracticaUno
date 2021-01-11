@@ -1,0 +1,6 @@
+com\mycompany\practicados\service\ProveedorService.class
+com\mycompany\practicados\MainWebAppInitializer.class
+com\mycompany\practicados\model\Proveedor.class
+com\mycompany\practicados\WebConfig.class
+com\mycompany\practicados\controller\proveedor\ProveedorController.class
+com\mycompany\practicados\controller\IndexController.class
